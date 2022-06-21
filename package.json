@@ -1,0 +1,27 @@
+{
+  "name": "channelchanger",
+  "version": "1.0.2",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "load": "node build/load.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iVitaliya/ChannelChanger.git"
+  },
+  "author": "Moony#0235 <671374842951630858>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/iVitaliya/ChannelChanger/issues"
+  },
+  "homepage": "https://github.com/iVitaliya/ChannelChanger#readme",
+  "dependencies": {
+    "@sapphire/framework": "^2.5.1",
+    "colorette": "^2.0.19",
+    "discord.js": "^13.8.0",
+    "dotenv": "^16.0.1",
+    "moment": "^2.29.3"
+  }
+}
